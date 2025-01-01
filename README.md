@@ -8,8 +8,6 @@ As a data addict with a solid background in Data Analytics and a love of numbers
 - 🌱🌷 I’m currently learning **Python** and **Machine Learning**
 - 🤔💬 I’m looking for help with improving and sharing knowledges in term of **Data Scientist**
 - 📫🙋‍♀️ Reach me:  ---
-  
-🌍  My Blog: [Alice's Daily](https://alicehoang1909.wixsite.com/homepage)
 
 ✉️  My Email: [alice.hoang1909@gmail.com](mailto:alice.hoang1909@gmail.com)
 
