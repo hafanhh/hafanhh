@@ -13,7 +13,7 @@ Let’s connect and explore the world of data together! 💡
 - 🤔💬 I’m looking for help with improving and sharing knowledges in term of **Data Scientist**
 - 📫🙋‍♀️ Reach me:  ---
 
-✉️  My Email: [alice.hoang1909@gmail.com](mailto:alice.hoang1909@gmail.com)
+✉️  [alice.hoang1909@gmail.com](mailto:alice.hoang1909@gmail.com)
 
 <a href="https://www.linkedin.com/in/alicehoang190996/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="25" height="25" /></a> : [/alicehoang190996](https://www.linkedin.com/in/alicehoang190996/)
 
