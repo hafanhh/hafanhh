@@ -2,7 +2,11 @@
 I'm Alice (Ha Anh) - Data Analyst
 =====================================
 
-As a data addict with a solid background in Data Analytics and a love of numbers, statistics, and data in general. With a MSc degree in **Data Analytics**, I bring to the field of data a unique blend of technical expertise and an analytical approach. As a candidate seeking the role of **Data Analyst**, I am delighted to demonstrate my technical, analytical, and logical talents in the field of **Data Analytics**.
+I'm a data enthusiast with a background in **International Business**, holding two postgraduate degrees from the UK. My journey into data started with **data analysis**, where I uncovered insights from numbers and trends. Over time, my curiosity for deeper patterns led me to **data science**, where I now work with **Python, machine learning**, and **deep learning** to build predictive models.
+
+I enjoy exploring datasets, experimenting with models, and solving real-world problems through data. Always eager to learn and grow, I’m on a mission to master AI and push the boundaries of what's possible with data science. 🚀
+
+Let’s connect and explore the world of data together! 💡
 
 - 🤞🍀 I’m currently looking for a professional opportunity as **Data Analyst** or **Data Scientist**
 - 🌱🌷 I’m currently learning **Python** and **Machine Learning**
