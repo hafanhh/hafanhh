@@ -20,22 +20,41 @@ Let’s connect and explore the world of data together! 💡
 
 ### Tools | Frameworks 
 
-• Programming Languages: SQL, Python, R
+• Programming Languages: Python, SQL, R
 
 • Data Preprocessing: Excel, Google Sheet, NumPy, Pandas. 
 
-• Data Visualization: Tableau, PowerBI, Matplotlib, Tableau, Seaborn, Ggplot2. 
+• Data Visualization: Tableau, PowerBI, Matplotlib, Seaborn
 
-• Machine and Deep Learning Implementation Framework: Scikit-Learn.
+• Machine and Deep Learning Implementation Framework: Scikit-Learn, Gradient Boosting, Keras, PyTorch, NLP.
 
-• Integrated Development Environment: VSCode, GG Colab, Big Query, MySQL, PostgreSQL
+• Integrated Development Environment: VSCode, Kaggle Cloud, GG Colab, Big Query, MySQL, PostgreSQL
 
 
 ### Personal Projects
 
 #### Python
+• [Women's Clothing E-commerce Review - Sentiment Analysis & Recommendation System - LSTM, BiLSTM, GRU, CNN](https://github.com/hafanhh/Women-Clothing-Review---Sentiment-Analysis---Recommendation-System---Deep-Learning-Focus/blob/main/sentiment-analysis-lstm-gru-bilstm-cnn.ipynb)
 
-• [Marketing Campaign Analysis (1) ](https://github.com/hafanhh/Marketing-Campaign-Analysis/blob/main/MKT_campaign_analysis.ipynb)
+• [Bank Customer - Churn Analysis and Prediction](https://github.com/hafanhh/Bank-Customer-Churn)
+
+• [Malanoma Detection - ResNet50, EfficientNet, CNN](https://github.com/hafanhh/Malanoma-Detection/blob/main/melanoma-detection.ipynb)
+
+• [Women's Clothing E-commerce Review - Recommendation Analysis - Baseline Models](https://github.com/hafanhh/Women-s-Clothing-E-commerce-Review---Recommendation-Analysis/blob/main/women-s-clothing-review-recommendation-analysis.ipynb)
+
+• [Simple Interviewer ChatBot - Using OpenAI API](https://github.com/hafanhh/InterviewerBot/blob/main/InterviewBot.py)
+
+• [Credit Card Approval Prediction](https://github.com/hafanhh/Predicting-Credit-Card-Approvals/blob/main/notebook.ipynb)
+
+• [Movie Rental Duration Prediction](https://github.com/hafanhh/Predicting-Movie-Rental-Duration/blob/main/notebook.ipynb)
+
+• [Clustering Antarctic Penguin Species](https://github.com/hafanhh/Clustering-Antarctic-Penguin-Species/blob/main/Clustering%20Antarctic%20Penguin%20Species/notebook.ipynb)
+
+• [Identifying The Popular Books - Classification Prediction](https://github.com/hafanhh/Identifying-the-popular-books---Classificatiion-prediction/blob/main/Predicting%20Movie%20Rental%20Durations/notebook.ipynb)
+
+• [Maket Basket Analysis - Hypothesis Testing, A/B Testing](https://github.com/hafanhh/Market-Basket-Analysis/blob/main/Market-Basket-Analysis.ipynb)
+
+• [Marketing Campaign Analysis](https://github.com/hafanhh/Marketing-Campaign-Analysis/blob/main/MKT_campaign_analysis.ipynb)
 
 • [Telco - Customer Churn Prediction](https://github.com/hafanhh/Telco-Predicting-Customer-Churn-in-Python)
 
