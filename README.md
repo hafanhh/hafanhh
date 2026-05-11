@@ -1,5 +1,5 @@
 ### Hi there 👋🙋‍♀️🇻🇳🇬🇧
-I'm Alice (Ha Anh) - Data Analyst
+I'm Alice (Ha Anh) - Data Scientist
 =====================================
 
 I'm a data enthusiast with a background in **International Business**, holding two postgraduate degrees from the UK. My journey into data started with **data analysis**, where I uncovered insights from numbers and trends. Over time, my curiosity for deeper patterns led me to **data science**, where I now work with **Python, machine learning**, and **deep learning** to build predictive models.
