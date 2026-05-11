@@ -8,9 +8,9 @@ I enjoy exploring datasets, experimenting with models, and solving real-world pr
 
 Let’s connect and explore the world of data together! 💡
 
-- 🤞🍀 I’m currently looking for a professional opportunity as **Data Analyst** or **Data Scientist**
+- 🤞🍀 I’m currently working as an AI Engineer / Data Scientist
 - 🌱🌷 I’m currently learning **Python** and **Machine Learning**
-- 🤔💬 I’m looking for help with improving and sharing knowledges in term of **Data Scientist**
+- 🤔💬 I’m looking for help with improving and sharing knowledges in term of **Data Scientist** or **Agentic AI**
 - 📫🙋‍♀️ Reach me:  ---
 
 ✉️  [alice.hoang1909@gmail.com](mailto:alice.hoang1909@gmail.com)
